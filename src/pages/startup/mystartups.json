@@ -1,0 +1,803 @@
+{"startups":[
+ {
+  "Id": 1,
+  "StartupName": "AgriSetu",
+  "Category": "Agriculture",
+  "Title": "Knowledge and experience sharing platform",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.agrisetu",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/agrisetu_latest_logo.png"
+ },
+ {
+  "Id": 2,
+  "StartupName": "Dhenoo",
+  "Category": "Agriculture",
+  "Title": "Digital solution for diary and livestock farmers",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.dhenoo.tech",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/dhenoo_logo_latest_apr.png"
+ },
+ {
+  "Id": 3,
+  "StartupName": "DrPashu",
+  "Category": "Agriculture",
+  "Title": "Online veterinary consultation",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.drpashu.app",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/dr_pashu.png"
+ },
+ {
+  "Id": 4,
+  "StartupName": "Farmology",
+  "Category": "Agriculture",
+  "Title": "Agritech app for farmers",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.farmology",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/farmology.png"
+ },
+ {
+  "Id": 5,
+  "StartupName": "GeeCom",
+  "Category": "Agriculture",
+  "Title": "Helping farmers market their products",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.geecomindia",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/gee_com.png"
+ },
+ {
+  "Id": 6,
+  "StartupName": "matar",
+  "Category": "Agriculture",
+  "Title": "Expanding opportunities",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.listag",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/matar_latest_logo.png"
+ },
+ {
+  "Id": 7,
+  "StartupName": "AceFluency",
+  "Category": "Education",
+  "Title": "Spoken English learning and practice",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.oooeng",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/ace_fluency.png"
+ },
+ {
+  "Id": 8,
+  "StartupName": "CloudAttack",
+  "Category": "Education",
+  "Title": "Gamified cloud learning",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=in.cloudattack",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/cloud_attack.png"
+ },
+ {
+  "Id": 9,
+  "StartupName": "EutorApp",
+  "Category": "Education",
+  "Title": "Create, organize and share educational content",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.nib.edutor",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/edutor.png"
+ },
+ {
+  "Id": 10,
+  "StartupName": "enguru",
+  "Category": "Education",
+  "Title": "Live English learning",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.kings.retailapp",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/enguru.png"
+ },
+ {
+  "Id": 11,
+  "StartupName": "FREAK LEARN",
+  "Category": "Education",
+  "Title": "Coding and learning for classes 6 to 12",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.coding.freaklearn",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/freak_learn.png"
+ },
+ {
+  "Id": 12,
+  "StartupName": "JyppzerKids",
+  "Category": "Education",
+  "Title": "Life skills and foundational learning for children",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.jyppzer_android",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/jypzzerkids_latest_logo.png"
+ },
+ {
+  "Id": 13,
+  "StartupName": "KalviApp",
+  "Category": "Education",
+  "Title": "Education app for rural students",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=org.saravanakumar.mytextbookslite",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/kalvi_app.png"
+ },
+ {
+  "Id": 14,
+  "StartupName": "Kriyo",
+  "Category": "Education",
+  "Title": "Digitizing operations for preschools and childcare centers",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.littlesoldiers.kriyoschool",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/kriyo_app.png"
+ },
+ {
+  "Id": 15,
+  "StartupName": "Max2D",
+  "Category": "Education",
+  "Title": "Build awesome games on your phone",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.mikeytronix.mobilegameengine",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/max_two_d.png"
+ },
+ {
+  "Id": 16,
+  "StartupName": "Money Lessons",
+  "Category": "Education",
+  "Title": "Financial literacy program for kids and teens",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.brightchamps.e10x",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/money_lessons.png"
+ },
+ {
+  "Id": 17,
+  "StartupName": "Online Gurukul",
+  "Category": "Education",
+  "Title": "Making quality education accessible ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.india.gurukul",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/online_gurukul.png"
+ },
+ {
+  "Id": 18,
+  "StartupName": "PrepAud",
+  "Category": "Education",
+  "Title": "Audio notes platform for government job aspirants",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.PrepAud",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/prep_aud.png"
+ },
+ {
+  "Id": 19,
+  "StartupName": "prepbook",
+  "Category": "Education",
+  "Title": "Learning platform with a frictionless reading experience",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.UpscMpsc.dev.timetoday",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/prepbook.png"
+ },
+ {
+  "Id": 20,
+  "StartupName": "Promilo",
+  "Category": "Education",
+  "Title": "Secured browsing and meet-ups for Gen-Z",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.promilo.app",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/promilo_latest_logo.png"
+ },
+ {
+  "Id": 21,
+  "StartupName": "SkoolShine",
+  "Category": "Education",
+  "Title": "Admin dashboard for schools",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.skoolshine",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/skoolshine.png"
+ },
+ {
+  "Id": 22,
+  "StartupName": "SparkStudio",
+  "Category": "Education",
+  "Title": "Making English learning fun and interactive for children ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.spark_native_app",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/sparkstudio_latest_logo.png"
+ },
+ {
+  "Id": 23,
+  "StartupName": "Stimuler",
+  "Category": "Education",
+  "Title": "Helping Non-English speakers elevate their proficiency",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.stimuler",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/stimuler_latest_logo.png"
+ },
+ {
+  "Id": 24,
+  "StartupName": "StockPe",
+  "Category": "Education",
+  "Title": "Learn and invest in financial assets ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.stockpemarket",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/stockpe_latest_logo.png"
+ },
+ {
+  "Id": 25,
+  "StartupName": "Study At Home",
+  "Category": "Education",
+  "Title": "Educational mobile application for students ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=co.hodor.teddv",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/study_at_home.png"
+ },
+ {
+  "Id": 26,
+  "StartupName": "TalkEng",
+  "Category": "Education",
+  "Title": "Expert-led and practice-oriented solution for language learning ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=io.talkeng.app.global",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/talk_eng.png"
+ },
+ {
+  "Id": 27,
+  "StartupName": "Teach Us",
+  "Category": "Education",
+  "Title": "Simplifying academic processes of colleges",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.thinkmonk.teachus",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/teachus_latest_logo.png"
+ },
+ {
+  "Id": 28,
+  "StartupName": "WitBlox",
+  "Category": "Education",
+  "Title": "Social learning platform for all things tech ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.witbloxapp.witblox",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/witblox.png"
+ },
+ {
+  "Id": 29,
+  "StartupName": "Wizdom",
+  "Category": "Education",
+  "Title": "Ultimate self-growth in 15 minutes",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.learn.wizdom",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/wizdom_latest_logo.png"
+ },
+ {
+  "Id": 30,
+  "StartupName": "Areno",
+  "Category": "Health",
+  "Title": "AI powered gamified fitness arena",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=in.areno",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/health_areno.png"
+ },
+ {
+  "Id": 31,
+  "StartupName": "BabyG",
+  "Category": "Health",
+  "Title": "Complete parenting app on baby development ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.babyg",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/health_babyg.png"
+ },
+ {
+  "Id": 32,
+  "StartupName": "BeeBloom",
+  "Category": "Health",
+  "Title": "Building a wellness-conscious lifestyle",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=in.beebloom.prod",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/beebloom_latest_logo.png"
+ },
+ {
+  "Id": 33,
+  "StartupName": "eka.care",
+  "Category": "Health",
+  "Title": "Store and manage health reports and body vitals",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=eka.care",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/health_eka_care.png"
+ },
+ {
+  "Id": 34,
+  "StartupName": "Fitterfly",
+  "Category": "Health",
+  "Title": "The key to good metabolic health ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.FitterFly.Wellness",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/health_fitterfly.png"
+ },
+ {
+  "Id": 35,
+  "StartupName": "Jumping Minds",
+  "Category": "Health",
+  "Title": "Mental health & wellness platform",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.jumpingminds",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/jumpingminds_latest_logo.png"
+ },
+ {
+  "Id": 36,
+  "StartupName": "Level SuperMind ",
+  "Category": "Health",
+  "Title": "Improve focus, memory, attention and clarity",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=level.game",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/health_level_supermind.png"
+ },
+ {
+  "Id": 37,
+  "StartupName": "MindPeers",
+  "Category": "Health",
+  "Title": "Measure and build mental strength ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=co.mindpeers",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/mindpeers_latest_logo.png"
+ },
+ {
+  "Id": 38,
+  "StartupName": "Neend",
+  "Category": "Health",
+  "Title": "Helping people sleep better",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.neend",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/health_neend.png"
+ },
+ {
+  "Id": 39,
+  "StartupName": "oxyjon",
+  "Category": "Health",
+  "Title": "Prevent, manage and reverse diabetes ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=app.oxyjon",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/health_oxyjon.png"
+ },
+ {
+  "Id": 40,
+  "StartupName": "Pregnancy Workout at Home",
+  "Category": "Health",
+  "Title": "Information and updates for pregnancy workouts",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.fitness.yoga.pregnancy.gym.exercise",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/health_pregnancy_workout_at_home.png"
+ },
+ {
+  "Id": 41,
+  "StartupName": "ThatMate",
+  "Category": "Health",
+  "Title": "Helping students de-stress",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.thatmate",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/thatmate_latest_logo.png"
+ },
+ {
+  "Id": 42,
+  "StartupName": "Together For Her",
+  "Category": "Health",
+  "Title": "Improving pregnancy outcomes through guided behavior change",
+  "App": "NA",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/health_together_for_her.png"
+ },
+ {
+  "Id": 43,
+  "StartupName": "Treat at Home",
+  "Category": "Health",
+  "Title": "Bringing healthcare to your doorstep",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.infizoom.treatathome",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/health_treat_at_home.png"
+ },
+ {
+  "Id": 44,
+  "StartupName": "ZenOnco Cancer Care",
+  "Category": "Health",
+  "Title": "24\/7 companion for cancer patients & caregivers",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.zenonco.cancer",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/health_zenonco_cancer_care.png"
+ },
+ {
+  "Id": 45,
+  "StartupName": "Beep",
+  "Category": "Social",
+  "Title": "LinkedIn for college students",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.eventbeep.android",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/beep_latest_logo.png"
+ },
+ {
+  "Id": 46,
+  "StartupName": "Daakia",
+  "Category": "Social",
+  "Title": "Making communication easy, effective and seamless",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.app.daakia",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/daakia_latest_logo.png"
+ },
+ {
+  "Id": 47,
+  "StartupName": "Downtown Club",
+  "Category": "Social",
+  "Title": "Personalized lifestyle search & discovery engine",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=club.thedowntown.app",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/downtownclub_latest_logo.png"
+ },
+ {
+  "Id": 48,
+  "StartupName": "Dream Meaning & Interpretation",
+  "Category": "Social",
+  "Title": "Dream meaning and interpretation",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.hopeitz.nightmare.dream.speaks",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/dreammeaning_latest_logo.png"
+ },
+ {
+  "Id": 49,
+  "StartupName": "Eyecan",
+  "Category": "Social",
+  "Title": "Virtual assistance for the visually impaired",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.eyecan.app",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/eyecan_latest_logo.png"
+ },
+ {
+  "Id": 50,
+  "StartupName": "Gill",
+  "Category": "Social",
+  "Title": "Queer dating app",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.riziliant.gliiapp",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/glii_latest_logo.png"
+ },
+ {
+  "Id": 51,
+  "StartupName": "Grapevine",
+  "Category": "Social",
+  "Title": "Advice and jobs for white-collar professionals ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.app.gvine",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/grapevine_latest_logo.png"
+ },
+ {
+  "Id": 52,
+  "StartupName": "HD Video Player All Formats",
+  "Category": "Social",
+  "Title": "Ultra HD video player",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.rocks.music.videoplayer",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/hdvideoplayer_latest_logo.png"
+ },
+ {
+  "Id": 53,
+  "StartupName": "Inbox",
+  "Category": "Social",
+  "Title": "Private messaging and calling ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.yearlater.inboxmessenger",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/inbox_latest_logo.jpg"
+ },
+ {
+  "Id": 54,
+  "StartupName": "Kmuniti",
+  "Category": "Social",
+  "Title": "Community-driven content creation and ecommerce ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.panktiyaan",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/kmuniti_latest_logo.png"
+ },
+ {
+  "Id": 55,
+  "StartupName": "Localeyes",
+  "Category": "Social",
+  "Title": "Connect with your neighborhood",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=tech.dagurmittal.app",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/localeyes_latest_logo.png"
+ },
+ {
+  "Id": 56,
+  "StartupName": "LYK",
+  "Category": "Social",
+  "Title": "Social networking platform ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.mm.parentconcern",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/lyk_latest_logo.png"
+ },
+ {
+  "Id": 57,
+  "StartupName": "Pepul",
+  "Category": "Social",
+  "Title": "Interest-based social networking platform",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.pepul.socialnetworking",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/peepul_latest_logo.png"
+ },
+ {
+  "Id": 58,
+  "StartupName": "PublicNext",
+  "Category": "Social",
+  "Title": "Enabling connections within your locality",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.electreps.electreps",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/publicnext_latest_logo.png"
+ },
+ {
+  "Id": 59,
+  "StartupName": "Radio Tuner",
+  "Category": "Social",
+  "Title": "Online live radio streaming",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.radiotuner",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/radiotuner_latest_logo.png"
+ },
+ {
+  "Id": 60,
+  "StartupName": "SpeakApp",
+  "Category": "Social",
+  "Title": "Create, upload and consume audio content",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.speakapp.app",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/speakapp_latest_logo.png"
+ },
+ {
+  "Id": 61,
+  "StartupName": "SportiWe",
+  "Category": "Social",
+  "Title": "Sports community network",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.sportiwe.sportiwe",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/sportiwe_latest_logo.png"
+ },
+ {
+  "Id": 62,
+  "StartupName": "Sticko Animated Sticker",
+  "Category": "Social",
+  "Title": "Animated sticker maker ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.hqinfosystem.sticko.wastickerapps.stickers",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/sticko_latest_logo.png"
+ },
+ {
+  "Id": 63,
+  "StartupName": "ThisDay",
+  "Category": "Social",
+  "Title": "Making history, art, culture and heritage accessible to all ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.ekank.thisday",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/thisday_latest_logo.png"
+ },
+ {
+  "Id": 64,
+  "StartupName": "Travel Buddy",
+  "Category": "Social",
+  "Title": "Social travel network and D2C marketplace",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.beatravelbuddy.travelbuddy",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/events\/travel_buddy_newlogo.png"
+ },
+ {
+  "Id": 65,
+  "StartupName": "Writco",
+  "Category": "Social",
+  "Title": "Connecting readers & writers around the globe",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=in.writco.app",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/writco_latest_logo.png"
+ },
+ {
+  "Id": 66,
+  "StartupName": "29 card game",
+  "Category": "Gaming",
+  "Title": "A strategic and fast-paced classic card game",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.mggames.card29",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/29cardgame_latest_logo.png"
+ },
+ {
+  "Id": 67,
+  "StartupName": "Christmas Blast",
+  "Category": "Gaming",
+  "Title": "Match puzzle game ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.gameannie.christmasblast",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/xmasblast_latest_logo.png"
+ },
+ {
+  "Id": 68,
+  "StartupName": "Christmas Diary",
+  "Category": "Gaming",
+  "Title": "Christmas themed cooking game",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.sweetgames.christmas.diary.cooking.game",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/xmasdiary_latest_logo.png"
+ },
+ {
+  "Id": 69,
+  "StartupName": "ICC Cricket Mobile",
+  "Category": "Gaming",
+  "Title": "Official ICC cricket for mobile ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.ncoregames.css",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/icccricket_latest_logo.png"
+ },
+ {
+  "Id": 70,
+  "StartupName": "Kurukshetra: Ascension",
+  "Category": "Gaming",
+  "Title": "Strategy card battle game ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.StudioSirah.KurukshetraAscension",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/kurukshetra_latest_logo.png"
+ },
+ {
+  "Id": 71,
+  "StartupName": "Ludo Okpo",
+  "Category": "Gaming",
+  "Title": "A fun dice game",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.okpo.ludo.game",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/ludookpo_latest_logo.png"
+ },
+ {
+  "Id": 72,
+  "StartupName": "My Café Shop",
+  "Category": "Gaming",
+  "Title": "Fun cooking games for adults",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.gameicreate.mycafeshopcookinggame",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/mycafeshop_latest_logo.png"
+ },
+ {
+  "Id": 73,
+  "StartupName": "Party Tambola",
+  "Category": "Gaming",
+  "Title": "Digitally play tambola or housie ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.quadralyst.partytambola",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/partytambola_latest_logo.jpeg"
+ },
+ {
+  "Id": 74,
+  "StartupName": "WorldOLA",
+  "Category": "Gaming",
+  "Title": "Learn about Flags, currencies and more",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.numismaticsacademy.worldola",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/worldola_latest_logo.png"
+ },
+ {
+  "Id": 75,
+  "StartupName": "CakeFizz",
+  "Category": "Everyday Solutions",
+  "Title": "Online cake, flower, and gift e-store",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.cakefizz.cakefizz",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/cakefizz_latest_logo2.png"
+ },
+ {
+  "Id": 76,
+  "StartupName": "CashCry",
+  "Category": "Everyday Solutions",
+  "Title": "Save time and money shopping online and offline",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.cashcry.android",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/cashcry_latest_logo.png"
+ },
+ {
+  "Id": 77,
+  "StartupName": "Digiboxx",
+  "Category": "Everyday Solutions",
+  "Title": "Digital cloud storage platform",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.liqvd.digibox",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/digibox_latest_logo.png"
+ },
+ {
+  "Id": 78,
+  "StartupName": "digiQC",
+  "Category": "Everyday Solutions",
+  "Title": "Solution for quality testing and assurance",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.logicwind.digiqc",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/digiqc_latest_logo.png"
+ },
+ {
+  "Id": 79,
+  "StartupName": "DocTunes",
+  "Category": "Everyday Solutions",
+  "Title": "Convert documents to audiobooks in 30+ languages",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.boss.audiobookconverter",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/doctunes_latest_logo.jpg"
+ },
+ {
+  "Id": 80,
+  "StartupName": "Docx Reader",
+  "Category": "Everyday Solutions",
+  "Title": "Lightweight mobile first document editor",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.xdev.docxreader.docx.docxviewer.document.doc.office.viewer",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/docx_latest_logo.png"
+ },
+ {
+  "Id": 81,
+  "StartupName": "Krovis Overseas",
+  "Category": "Everyday Solutions",
+  "Title": "Fast and easy billing and invoice maker",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=krovisoverseas.export.invoice.maker.exportbilling",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/expertinvoice_latest_logo.png"
+ },
+ {
+  "Id": 82,
+  "StartupName": "GimBooks",
+  "Category": "Everyday Solutions",
+  "Title": "Book keeping, invoicing and accounting",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.asap.codenicely.pdf.gstinvoicing.free.mobile.easy.gst.invo",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/gimbooks_latest_logo.png"
+ },
+ {
+  "Id": 83,
+  "StartupName": "JustCopy",
+  "Category": "Everyday Solutions",
+  "Title": "Scan and store documents",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=in.justcopy",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/jsutcopy_latest_logo.png"
+ },
+ {
+  "Id": 84,
+  "StartupName": "Kirana Friends",
+  "Category": "Everyday Solutions",
+  "Title": "Helping kirana owners improve profits and productivity",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.kiranafriend.android",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/kiranafriends_latest_logo.png"
+ },
+ {
+  "Id": 85,
+  "StartupName": "Koshex",
+  "Category": "Everyday Solutions",
+  "Title": "Simplifying money management and wealth creation ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.koshex.koshex",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/koshex_latest_logo.png"
+ },
+ {
+  "Id": 86,
+  "StartupName": "Kuddle",
+  "Category": "Everyday Solutions",
+  "Title": "One stop solution for pet parenting",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.kuddle.app",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/kuddle_latest_logo.png"
+ },
+ {
+  "Id": 87,
+  "StartupName": "LOUIE VOICE CONTROL",
+  "Category": "Everyday Solutions",
+  "Title": "Helping to voice enable apps ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.visioapps.louie",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/louie_latest_logo.png"
+ },
+ {
+  "Id": 88,
+  "StartupName": "OTU India",
+  "Category": "Everyday Solutions",
+  "Title": "Providing employment opportunities to blue collar workers ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.india.otu_android",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/otu_latest_logo.png"
+ },
+ {
+  "Id": 89,
+  "StartupName": "Petmojo",
+  "Category": "Everyday Solutions",
+  "Title": "Pet services aggregator ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=in.tamely.user",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/petmojo_latest_logo.png"
+ },
+ {
+  "Id": 90,
+  "StartupName": "Petzzing",
+  "Category": "Everyday Solutions",
+  "Title": "Pet parenting needs",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.petmate",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/petzzing_latest_logo.png"
+ },
+ {
+  "Id": 91,
+  "StartupName": "ProjectHero Workers App",
+  "Category": "Everyday Solutions",
+  "Title": "Networking and engagement for the construction industry",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.projecthero.android",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/projecthero_latest_logo2.jpg"
+ },
+ {
+  "Id": 92,
+  "StartupName": "QuickStay",
+  "Category": "Everyday Solutions",
+  "Title": "Digital solution for long-term home rentals in a new city",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.quickstayrooms.flat_and_flatmates",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/quickstay_latest_logo.png"
+ },
+ {
+  "Id": 93,
+  "StartupName": "RoyalPOS",
+  "Category": "Everyday Solutions",
+  "Title": "Point of sale system for restaurants and retail stores ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.swiftomatics.royalpos",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/royalpos_latest_logo.png"
+ },
+ {
+  "Id": 94,
+  "StartupName": "ShramIN Jobs",
+  "Category": "Everyday Solutions",
+  "Title": "Career advancement platform for blue & grey collar workers",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.shramin.user",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/shramin_latest_logo.png"
+ },
+ {
+  "Id": 95,
+  "StartupName": "Socialveins",
+  "Category": "Everyday Solutions",
+  "Title": "Helping brands penetrate local markets ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.touristerguide.socialveins",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/socialveinsss_latest_logo.png"
+ },
+ {
+  "Id": 96,
+  "StartupName": "Spring Money",
+  "Category": "Everyday Solutions",
+  "Title": "Platform to help make better financial decisions ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.spring.money",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/springmoney_latest_logo.png"
+ },
+ {
+  "Id": 97,
+  "StartupName": "SubSpace",
+  "Category": "Everyday Solutions",
+  "Title": "Easy way to split bills, save money, and invest with friends",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=org.grow90.whatsub",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/subspace_latest_logo.png"
+ },
+ {
+  "Id": 98,
+  "StartupName": "Trumsy",
+  "Category": "Everyday Solutions",
+  "Title": "Habit building app for parents and children",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.trumsy.app",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/trumsy_latest_logo.png"
+ },
+ {
+  "Id": 99,
+  "StartupName": "Wus Ap",
+  "Category": "Everyday Solutions",
+  "Title": "Platform for blue collar workers to find jobs",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.bb.indianmajdoorunion",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/wus_latest_logo.png"
+ },
+ {
+  "Id": 100,
+  "StartupName": "xOneAi",
+  "Category": "Everyday Solutions",
+  "Title": "Build 3D models ",
+  "App": "https:\/\/play.google.com\/store\/apps\/details?id=com.xplorazzi.xperinz",
+  "Logo": "https:\/\/services.google.com\/fh\/files\/misc\/xoneai_latest_logo.png"
+ }
+]
+}

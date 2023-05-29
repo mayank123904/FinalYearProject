@@ -1,0 +1,114 @@
+.iprofilecontainer {
+    height:900px;
+    width:90%;
+    border:1px solid black;
+    background-color: royalblue;
+    margin-left: 5%;
+    margin-top: 3rem;
+}
+.inneriprofilecontainer {
+    width:90%;
+    height:90%;
+    background-color: white;
+    border: 1px solid red;
+    margin-left:5%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    border-radius: 3%;
+}
+.innerprofileheader{
+    width:90%;
+    height:4rem;
+    display: flex;
+    background-color: white;
+    /* border: 1px solid orange; */
+    margin-left: 5%;
+    margin-top: 2.2rem;
+    margin-bottom: 2rem;
+}
+.innerprofilebody {
+    height:80%;
+    width:90%;
+    margin:2rem;
+    margin-left: 5%;
+    /* border: 1px solid yellow; */
+}
+.firstinnerprofilebody{
+    width:100%;
+    height: 100%;
+    /* background-color: cyan;
+    border: 1px solid red; */
+    /* margin-top:1.5rem; */
+    display: flex;
+}
+.leftfirstinnerprofilebody{
+    width:23rem;
+    height:100%;
+    /* background-color: red; */
+}
+.profilepic>img{
+    width:17rem;
+    height:12rem;
+    /* border: 1px solid black; */
+    margin-left: 1.5rem;
+    margin-top: 1rem;
+    border-radius: 15%;
+}
+.rightfirstinnerprofilebody{
+    width:55rem;
+    height:100%;
+    /* background-color: green; */
+    /* margin-top: 2rem; */
+    /* margin-left: 1rem; */
+}
+.rightfirstinnerprofilebodyhead{
+    /* border:1px solid white; */
+    padding-left:10%;
+}
+.rightfirstinnerprofilebodyhead>p{
+    margin-left: .5rem;
+}
+.rightfirstinnerprofilebodybody>div>button{
+    background-color: white;
+    padding:.2rem;
+    /* border-radius: 15%; */
+    cursor: pointer;
+    color:rgb(56, 60, 64);
+    display: flex;
+    margin-left:5rem;
+    padding-right: .5rem;
+}
+.investorrating{
+    width:fit-content;
+    margin-left: 1rem;
+    /* border:1px solid cyan; */
+    display: flex;
+    height: fit-content;
+}
+.investorrating>h4{
+    text-align: center;
+    font-size: 1.5rem;
+    /* border:1px solid black; */
+    margin-left: 1rem;
+    color:orange;
+    padding:.4rem .5rem .4rem .5rem;
+}
+.headbottom{
+   display:flex;
+   /* border:1px solid cyan; */
+}
+.headbottmratings{
+    display:flex;
+    /* border:1px solid magenta; */
+    margin-left: 2rem;
+}
+.headbottmratings>p{
+    color:rgb(30, 32, 33);
+    margin-left: .5rem;
+}
+.firstrightfirstinnerprofilebodybody{
+    /* border: 1px solid magenta; */
+    height: 453px;
+    margin-left: 5rem;
+    margin-top:1.5rem;
+}

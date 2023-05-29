@@ -1,0 +1,33 @@
+.numbersheading{
+    font-size:70px;
+    color:royalblue;
+   text-align: center;
+   transition: transform 1s ease-in-out;
+   transform: scale(0);
+   opacity: 0;
+}
+.numbersheading.animated {
+    transform: scale(1);
+    opacity: 1;
+    font-size:70px;
+    color:royalblue;
+    text-align: center;
+  }
+
+.numberscontainer {
+    display: flex;
+    margin-top:2rem;
+}
+.numbersinnercontainer{
+  display: flex;
+  margin-left:auto;
+}
+   @media only screen and (max-width: 1200px) {
+    .numberscontainer {
+     display:block; 
+   }
+    .numbersinnercontainer {
+    width:fit-content;
+    margin:auto;
+    }
+   }

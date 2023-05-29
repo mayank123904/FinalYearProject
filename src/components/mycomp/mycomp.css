@@ -1,0 +1,38 @@
+.mycompcontainer{
+    /* border: 1px solid black; */
+    height:3rem;
+    width:10rem;
+    margin-left:auto;
+    text-align: center;
+    padding-top: 0.5rem;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: rgba(0,0,0,0.35) 0px 5px 15px;
+}
+
+.mycompcontainer>a{
+text-decoration: none;
+color:black;
+}
+
+.mycompcontainer:hover{
+    background-color: black;
+    border:1px solid white;
+    transform: scale(1.4,1.4);
+}
+
+.mycompcontainer:hover >a{
+    color: yellow;
+}
+.compcontainer{
+    margin-left:auto;
+    }
+/* style={{width:"200px",height:"40px",backgroundColor:"blue",opacity:"0.5"}} */
+
+@media only screen and (max-width: 1000px) {
+    .mycompcontainer{
+        width:7rem;
+    }
+    .compcontainer{
+    margin-left:12%;
+    }
+}

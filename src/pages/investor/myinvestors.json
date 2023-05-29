@@ -1,0 +1,431 @@
+{
+  "investors": [
+    {
+      "ID": 1,
+      "InvestorName": "Rakesh Jhunjhunwala and Associate's",
+      "Picklink": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202208/rakesh-jhunjhunwala-sixteen_nine.jpg",
+      "Categories": {
+        "Miscellaneous":10,
+        "Pharmaceuticals":10,
+        "Construction & Contracting-Real Estate":7,
+        "Banks-Private Sector":7,
+        "Finance - General":7,
+        "Construction & Contracting - Civil":3,
+        "Footwear":3,
+        "Banks - Public Sector":3,
+        "Infrastructure - General":3,
+        "Hotels":3,
+        "Edible Oils & Solvent Extraction":3,
+        "Telecommunications-Service":3,
+        "Trading":3,
+        "Pesticides & Agro Chemicals":3,
+        "Software":3,
+        "Auto Ancillaries":3,
+        "Auto - LCVs & HCVs":3,
+        "Hospitals & Medical Services":3,
+        "Computers - Software - Training":3,
+        "Diversified":3
+      }
+    },
+    {
+      "ID": 2,
+      "InvestorName": "Radhakishan Damani",
+      "Picklink": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/ezgif-1-725f0f1664-sixteen_nine.jpg",
+      "Categories": {
+        "Retail":13,
+        "Power - Generations & Distribution":10,
+        "Breweries & Distilleries":7,
+        "Computers - Software-Training":7,
+        "Finance - Leasing & Hire Purchase":7,
+        "Couriers":7,
+        "Cigarettes":7,
+        "Paper":7,
+        "Chemicals":7,
+        "Diversified":7,
+        "Hotels":7,
+        "Cement - Major":7,
+        "Finance - General":7
+      }
+    },
+    {
+      "ID": 3,
+      "InvestorName": "Premji and Associate's",
+      "Picklink": "https://media.top10stockbroker.com/wp-content/uploads/2021/04/18130730/Premji-Associates-Portfolio.jpg",
+      "Categories": {
+        "Computers - Software":33,
+        "Sugar":33,
+        "Auto Ancillaries":33
+      }
+    },
+    {
+      "ID": 4,
+      "InvestorName": "Mukul Mahavir Prasad Agrawal",
+      "Picklink": "https://brainywit.com/wp-content/uploads/2022/03/MUKUL-AGARWAL--1024x1024.jpg",
+      "Categories": {
+        "Miscellaneous":13,
+        "Pharmaceuticals":5,
+        "Computers-Software":6,
+        "Food Processing":4,
+        "Plastics":4,
+        "Steel - Medium & Small, Rolling, Tubes & Pipes":8,
+        "Textiles":6,
+        "Others":52
+      }
+    },
+    {
+      "ID": 5,
+      "InvestorName": "Atim Kabra",
+      "Picklink": "https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/v1426858165/xxkfjzxsf5kjqn2ebwfi.png",
+      "Categories": {
+        "Chemicals":33,
+        "Electric Equipment":33
+      }
+    },
+    {
+      "ID": 6,
+      "InvestorName": "Ashish Dhawan",
+      "Picklink": "https://economictimes.indiatimes.com/blogs/wp-content/uploads/2019/07/Ashish-Dhawan.jpg",
+      "Categories": {
+        "Miscellaneous":23,
+        "Computers - Software Medium & Small":23,
+        "Pharmaceuticals":8,
+        "Banks-Private Sector":8,
+        "Finance - Term Landing Institutions":8,
+        "Media & Entertainment":8,
+        "Engineering":8,
+        "Bank - Private Sector":8
+      }
+    },
+    {
+      "ID": 7,
+      "InvestorName": "Anil Kumar Goel and Associate's",
+      "Picklink": "https://akgassociates.com/images/team/anil-goyal.jpg",
+      "Categories": {
+        "Sugar":25,
+        "Finance-Investments":6,
+        "Printing & Stationary":3,
+        "Rubber":3,
+        "Textiles - Processing":3,
+        "Chemicals":3,
+        "Electrodes & Graphite":3,
+        "Textiles - Hosiery & Knitwear":3,
+        "Steel - Medium & Small":3,
+        "Food Processing":3,
+        "Paper":3,
+        "Plantations - Tea & Coffee":3,
+        "Engineering - Heavy":3,
+        "Construction & Contracting-Real Estate":3
+      }
+    },
+    {
+      "ID": 8,
+      "InvestorName": "Ashish Kacholia",
+      "Picklink": "https://navbharattimes.indiatimes.com/thumb/83103704/ashish-kacholia-superstar-shareholders-stock-rallies-101-in-a-month-top-picks-jumped-up-to-400-83103704.jpg",
+      "Categories": {
+        "Miscellaneous":7,
+        "Pharmaceuticals":5,
+        "Packaging":5,
+        "Food Processing":5,
+        "Computers-Software":6,
+        "Others":72
+      }
+    },
+    {
+      "ID": 9,
+      "InvestorName": "Anuj Anantrai Sheth and Associate's",
+      "Picklink": "https://media.licdn.com/dms/image/C4D03AQFQIzCkT_MGcA/profile-displayphoto-shrink_800_800/0/1653364926496?e=2147483647&v=beta&t=WTCtBcyRwU5A1p-1QGzSltoHanAmmQtcNEPFv6fPhls",
+      "Categories": {
+        "Auto Ancillaries":14,
+        "Textiles":14,
+        "Glass & Glass Products":14,
+        "Pharmaceuticals":14,
+        "Petrochemicals":14,
+        "Sugar":14,
+        "Finance":14,
+        "Others":2
+      }
+    },
+    {
+      "ID": 10,
+      "InvestorName": "Mohnish Pabrai",
+      "Picklink": "https://www.eqimg.com/images/2023/03122023-image1-thumb-equitymaster.jpg",
+      "Categories": {
+        "Construction & Contracting-Real Estate":33,
+        "Cement":33,
+        "Finance-General":33
+      }
+    },
+    {
+      "ID": 11,
+      "InvestorName": "Bhavook Tripathi",
+      "Picklink": "https://rakesh-jhunjhunwala.in/wp-content/uploads/2012/11/Bhavook_Tripathi.jpg",
+      "Categories": {
+       "Computers - Software Medium & Small":100
+      }
+    },
+    {
+      "ID": 12,
+      "InvestorName": "Madhusudan Kela",
+      "Picklink": "https://i0.wp.com/multibaggerstocks.org/wp-content/uploads/2017/03/madhusudan-kela.png?fit=470%2C580&ssl=1",
+      "Categories": {
+        "Textiles":17,
+        "Finance-Investments":17,
+        "Finance-General":17
+      }
+    },
+    {
+      "ID": 13,
+      "InvestorName": "Vijay Kishanlal Kedia",
+      "Picklink": "https://economictimes.indiatimes.com/thumb/msid-88990729,width-1200,height-900,resizemode-4,imgsize-682386/kedia-picked-up-a-fresh-stake-in-talbros-automotive-components-as-he-bought-280000-shares-or-a-2-27-per-cent-stake-in-the-company-during-the-december-2021-quarter-.jpg?from=mdr",
+      "Categories": {
+        "Auto Ancillaries":12,
+        "Construction & Contracting - Civil":12,
+        "Hotels":6,
+        "Telecommunications-Equipment":6,
+        "Pharmaceuticals":6,
+        "Engineering - Heavy":6,
+        "Textiles - Weaving":6,
+        "Computers-Software":6,
+        "Retail":6,
+        "Food Processing":6,
+        "Dyes & Pigments":6,
+        "Auto - 2 & 3 Wheelers":6,
+        "Printing & Stationary":6,
+        "Others":10
+      }
+    },
+    {
+      "ID": 14,
+      "InvestorName": "Dilip Kumar Lakhi",
+      "Picklink": "https://www.diamondworld.net/admin/getResource.aspx?flag=0&fileId=10086",
+      "Categories": {
+        "Media & Entertainment":18,
+        "Finance-Investments":18,
+        "Construction & Contracting - Civil":18,
+        "Chemicals":18,
+        "Petrochemicals":9,
+        "Engineering - Heavy":9,
+        "Ceramics & Granite":9
+      }
+    },
+    {
+      "ID": 15,
+      "InvestorName": "Keswani Haresh",
+      "Picklink": "https://media.licdn.com/dms/image/C4E03AQEgKGeGpmGD7Q/profile-displayphoto-shrink_800_800/0/1516702629940?e=2147483647&v=beta&t=ZA6An8nzOh_hmDROhXzg8mr6WrBoOVZ8gtzEZQam0wI",
+      "Categories": {
+        "Finance-General":32,
+        "Petrochemicals":17,
+        "Power - Generations & Distribution":17,
+        "Packaging":17,
+        "Cement - Mini":17
+      }
+    },
+    {
+      "ID": 16,
+      "InvestorName": "Jayesh Patel",
+      "Picklink": "https://assets.entrepreneur.com/content/1x1/300/20191205085636-JayeshPatel-HeadofLiv.jpeg",
+      "Categories": {
+        "Packaging":8,
+        "Cabels - Power & Others":8,
+        "Engineering":8,
+        "Others":76
+      }
+    },
+    {
+      "ID": 17,
+      "InvestorName": "Ajay Upadhyaya",
+      "Picklink": "https://www.azbpartners.com/wp-content/uploads/2022/09/Ajay-Upadhyay.png",
+      "Categories": {
+        "Textiles - Spinning - Cotton Blended":15,
+        "Chemicals":15,
+        "Telecommunications-Service":8,
+        "Pharmaceuticals":8,
+        "Electricals":8,
+        "Cement - Products & Building Materials":8,
+        "Textiles - Readymade Apparels":8,
+        "Auto Ancillaries":8,
+        "Engineering - Heavy":8,
+        "Steel - Medium & Small":8,
+        "Others":6
+      }
+    },
+    {
+      "ID": 18,
+      "InvestorName": "Bharat Jayantilal Patel and Associate's",
+      "Picklink": "https://smedia2.intoday.in/indiatoday/images/stories/2010martoapril/100511052226_Bharat-Patel2_Inside_Story.jpg",
+      "Categories": {
+        "Electric Equipment":6,
+        "Infrastructure - General":6,
+        "Dry Cells":6,
+        "Textiles - Spinning - Synthetic Blended":6,
+        "Engineering":6,
+        "Electricals":6,
+        "Fertilisers":6,
+        "Oil Drilling & Exploration":6,
+        "Auto Ancillaries":6,
+        "Textiles - Spinning - Cotton Blended":6,
+        "Packaging":6,
+        "Others":34
+      }
+    },
+    {
+      "ID": 19,
+      "InvestorName": "Sanjiv Dhireshbhai Shah",
+      "Picklink": "https://www.hartenergy.com/sites/default/files/styles/news_article_image/public/image/2019/02/forty-under-40-sanjiv-shah-simmons-co-international.jpg?itok=QApu1dVF",
+      "Categories": {
+        "Textiles - General":11,
+        "Printing & Stationary":11,
+        "Textiles - Readymade Apparels":11,
+        "Chemicals":11,
+        "Transport & Logistics":11,
+        "Others":45
+      }
+    },
+    {
+      "ID": 20,
+      "InvestorName": "Suresh Kumar Agarwal",
+      "Picklink": "https://media.licdn.com/dms/image/C4E03AQEgKGeGpmGD7Q/profile-displayphoto-shrink_800_800/0/1516702629940?e=2147483647&v=beta&t=ZA6An8nzOh_hmDROhXzg8mr6WrBoOVZ8gtzEZQam0wI",
+      "Categories": {
+        "Computers-Software-Training":7,
+        "Auto Ancillaries":7,
+        "Pharmaceuticals":7,
+        "Trading":7,
+        "Leather Products":7,
+        "Printing & Stationary":7,
+        "Steel - Rolling":7,
+        "Oil Drilling & Exploration":7,
+        "Miscellaneous":"7",
+        "Textiles - Hosiery & Knitwear":7,
+        "Others":30
+      }
+    },
+    {
+      "ID": 21,
+      "InvestorName": "Sangeetha S",
+      "Picklink": "https://pbs.twimg.com/profile_images/887307512151646210/SQPnTmBH_400x400.jpg",
+      "Categories": {
+        "Ceramics & Granite":2,
+        "Hospitals & Medical Services":2,
+        "Plastics":2,
+        "Textiles - Spinning - Cotton Blended":1,
+        "Textiles - Weaving":1,
+        "Textiles - Processing":1,
+        "Paper":1,
+        "Steel - Medium & Small":1,
+        "Textiles - General":1,
+        "Fertilisers":1,
+        "Finance - Leasing & Hire Purchase":1,
+        "Steel - Gp & GC Sheets":1,
+        "Pharmaceuticals":1,
+        "Finance-Investments":1,
+        "Vanaspati & Oils":1,
+        "Miscellaneous":1,
+        "Packaging":1,
+        "Auto Ancillaries":1,
+        "Chemicals":1,
+        "Dyes & Pigments":1,
+        "Castings & Forgings":1
+      }
+    },
+    {
+      "ID": 22,
+      "InvestorName": "Seetha Kumari",
+      "Picklink": "https://pbs.twimg.com/profile_images/1368090220609044483/JMKWcOIU_400x400.jpg",
+      "Categories": {
+        "Paper":21,
+        "Packaging":14,
+        "Dyes & Pigments":14,
+        "Electrodes & Graphite":7,
+        "Finance-Investments":7,
+        "Plastics":7,
+        "Media & Entertainment":7,
+        "Oil Drilling & Exploration":7,
+        "Electric Equipment":7,
+        "Others":9
+      }
+    },
+    {
+      "ID": 23,
+      "InvestorName": "Satpal Khattar",
+      "Picklink": "https://cdn.tatlerasia.com/tatlerasia/i/2021/11/26052519-sat-pal-khattar_cover_1200x1800.jpg",
+      "Categories": {
+       "Construction & Contracting - Civil":20,
+       "Pharmaceuticals":20,
+       "Engineering & Construction":10,
+       "Banks-Private Sector":10,
+       "Textiles - Spinning - Synthetic Blended":10,
+       "Computers - Software Medium & Small":10,
+       "Textiles - Spinning - Cotton Blended":10,
+       "Finance - General":10
+      }
+    },
+    {
+      "ID": 24,
+      "InvestorName": "Vanaja Sunder Iyer",
+      "Picklink": "https://pbs.twimg.com/profile_images/61195087/Vanaja_400x400.jpg",
+      "Categories": {
+        "Cement - Products & Building Materials":11,
+        "Pharmaceuticals":11,
+        "Computers - Software Medium & Small":11,
+        "Finance - General":11,
+        "Food Processing":11,
+        "Iron & Steel":11,
+        "Speciality Chemicals":11,
+        "Miscellaneous":11,
+        "Others":12
+      }
+    },
+    {
+      "ID": 25,
+      "InvestorName": "Amit Gupta",
+      "Picklink": "https://web.inmobicdn.net/website/website/6.0.1/ui/v6/img/company/amit-gupta.jpg",
+      "Categories": {
+        "Infrastructure - General":9,
+        "Construction - Real Estate":9,
+        "Pumps":9
+      }
+    },
+    {
+      "ID": 26,
+      "InvestorName": "Dolly Khanna",
+      "Picklink": "https://static.langimg.com/thumb/82941083/dollykhanna-82941083.jpg?imgsize=100556&width=540&height=405&resizemode=75",
+      "Categories": {
+        "Fertilisers":13,
+        "Textiles - Spinning - Cotton Blended":7,
+        "Trading":7,
+        "Auto Ancillaries":7,
+        "Vanaspati & Oils":7,
+        "Miscellaneous":7,
+        "Textiles - Readymade Apparels":7,
+        "Cement - Major":7,
+        "Refineries":7,
+        "Breweries & Distilleries":7
+      }
+    },
+
+    {
+      "ID": 27,
+      "InvestorName": "Nikhil Vora",
+      "Picklink": "https://sixthsenseventures.com/wp-content/uploads/2019/02/Nikhil-Vora-Team.jpg",
+      "Categories": {
+        "Personal Care":14,
+        "Miscellaneous":14,
+        "Telecommunications-Service":14,
+        "Food Processing":14
+      }
+    },
+    {
+      "ID": 28,
+      "InvestorName": "Sanjay Gupta",
+      "Picklink": "https://media.licdn.com/dms/image/C5603AQFxmdc5wiDW0w/profile-displayphoto-shrink_800_800/0/1619447045666?e=2147483647&v=beta&t=9bZdZOpu9oMyRiZ1zEtXGV1iBrmtd4eEXZtCl-OVIB4",
+      "Categories": {
+        "Plastics":14,
+        "Finance - Leasing & Hire Purchase":7,
+        "Food Processing":7,
+        "Media & Entertainment":7,
+        "Construction & Contracting - Civil":7,
+        "Steel - Tubes & Pipes":7
+      }
+    }
+  ]
+}

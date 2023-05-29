@@ -1,0 +1,81 @@
+:root{
+    --primary-color: #4ea685;
+    --secondary-color: #0d95b7;
+    --black :#000000;
+    --white: #ffffff;
+    --gray: #efefef;
+    --gray-2: #757575;
+
+    --facebook-color: #4267B2;
+    --google-color: #D84437;
+    --twitter-color: #1DA1F2;
+    --instagram-color: #E1306C;
+}
+
+.outercontainer {
+    width: 25rem;
+    height: 15rem;
+    border: 1px solid blue;
+    margin-bottom: 3rem;
+    padding:1rem 0 1rem 2.5rem;
+    border-radius:10%;
+    cursor: pointer;
+}
+
+.outercontainer:hover {
+    background-image: linear-gradient(to right, white 15%, var(--facebook-color) 70%);
+}
+
+
+.innercontainer {
+    display: flex;
+}
+
+.innercontainer>div{
+    margin:1rem;
+    margin-left:3rem;
+}
+
+.eventcategorycontainer{
+    border: 1px solid lightblue;
+    width:fit-content;
+    padding: .2rem 1.1rem .2rem 1.1rem;
+    margin-top:1rem;
+    margin-bottom:1rem;
+    color: var(--secondary-color);
+    background-color: silver;
+   
+}
+
+.finalcontainer {
+    display: flex;
+    margin-bottom:1rem;
+}
+
+.finalcontainerfirstdiv{
+    display: flex;
+    margin-right: 5rem;
+}
+.finalcontainerfirstdiv>i{
+    font-size: 1.5rem;
+}
+
+.finalcontainerseconddiv{
+    margin-top:-1.5rem;
+}
+.finalcontainerfirstdiv{
+    margin-top:.3rem;
+    display: flex;
+}
+.finalcontainerfirstdiv>p{
+    margin-left:.5rem;
+    margin-top:-.3rem;
+}
+.finalcontainerseconddiv{
+    margin-top:.3rem;
+    display: flex;
+}
+.finalcontainerseconddiv>p{
+    margin-left:.5rem;
+    margin-top:-.3rem;
+}

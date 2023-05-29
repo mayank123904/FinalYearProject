@@ -1,0 +1,84 @@
+.spcontainer{
+    /* border: 1px solid black; */
+    text-align: center;
+    margin-top: 2rem;
+}
+.spcontaer>h1 {
+   text-align: center;
+}
+/* .spfirstcontainer{
+    border:2px solid red;
+} */
+.spfirstinnercontainer{
+    display: flex;
+}
+.spfirstinnercontainer>h3{
+    margin-top: 2.5rem;
+    margin-left: auto;
+    /* border: 1px solid black; */
+    height: fit-content;
+    color: blue;
+}
+.spfirstinnercontainer>img {
+height:8rem;
+width:10rem;
+margin-left: 5rem;
+}
+
+.spfirstinnercontainer>div {
+    display: flex;
+    margin-top: 1.5rem;
+    /* border: 1px solid blue; */
+    margin-left: auto;
+    height: fit-content;
+}
+.spfirstinnercontainer>div>h3 {
+    margin:.8rem;
+}
+.spsecondcontainer{
+    /* border:2px solid green; */
+    margin:auto;
+    width: fit-content;
+margin-top: 2rem;
+}
+#typewriter-length {
+    width: 53%; 
+  }
+@keyframes typewriter-length {
+    from {
+      width: 0;
+    }
+    to {
+      width: 53%;
+    }
+  }
+  #typewriter-length {
+    overflow: hidden;
+    white-space: nowrap;
+    letter-spacing: .15em;
+    animation: typewriter-length 4s steps(40, end) forwards;
+  }
+  .spsecondinnercontainer{
+    /* border:1px solid black; */
+    width:20rem;
+    height:10rem;
+    margin: .5rem;
+    box-shadow:rgba(137, 138, 139, 0.35) 2px 3px 0px;
+    border-radius: 30%;
+    padding-top: 2rem;
+    /* overflow: hidden; */
+  }
+  .card1:hover{
+    margin-top: -1rem;
+    background-color:royalblue ;
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 700;
+  }
+  .stylecompo{
+    background-color:navy;
+    width:.7rem;
+    height:1.1rem;
+    margin-left:.2rem;
+    opacity:.4;
+  }
